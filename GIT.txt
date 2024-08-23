@@ -1,0 +1,10 @@
+SAMUEL LAUREANO SILVA
+
+cd /caminho/do/seu/projeto - mudar o diretório atual no terminal
+git init - inicializa um repositório Git no diretório atual.
+git add - adiciona todas as alterações do diretório atual ao  do Git.
+git commit -m "Primeiro commit" -  cria um novo commit com as alterações presentes no índice.
+git remote add origin URL-DO-REPOSITORIO - adiciona um repositório remoto chamado “origin” e associando-o à URL do seu repositório Git.
+git push -u origin main - envia os commits locais para o repositório remote
+git branch Samuel - cria uma nova ramificação (branch) chamada “Samuel”
+git checkout nome-da-branch -permite alternar entre ramificações.
